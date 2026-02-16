@@ -1,27 +1,19 @@
-<h2 align="center">Hi 👋, I'm Neil Varghese Abraham</h2>
-<p align="center">
-AI & Full-Stack Developer • Building intelligent web applications
-</p>
+### Hey there! 👋
+
+I'm Neil, a developer passionate about building intelligent and useful applications.
+
+I enjoy combining **AI and full-stack development** to solve real-world problems.
+
+Most days you'll find me learning something new, building projects, or improving my skills.
+
+My favorite tools include React, Node.js, TensorFlow, and Git.
+
+I love turning ideas into working products and continuously pushing myself to grow.
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Computer Science student  
-- 🤖 Interested in AI, Deep Learning & NLP  
-- 🌐 Building applications using the MERN stack  
-- ⚡ Always learning and improving  
+### Fun Facts
 
----
-
-### 🛠 Tech Stack
-**Languages:** C, C++, Python, Java, JavaScript  
-**Web:** React, Node.js, Express.js, HTML, CSS  
-**AI/ML:** TensorFlow, Keras  
-**Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Figma  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neil-Varghese&show_icons=true" height="150">
-</p>
+- 💻 I enjoy building and experimenting with new tech
+- 🤖 Interested in AI and real-world applications
+- 🏋️ Always improving and learning
