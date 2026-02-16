@@ -23,5 +23,5 @@ AI & Full-Stack Developer • Building intelligent web applications
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neil-Varghese&show_icons=true" height="150">
 </p>
