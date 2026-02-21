@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Neil, a developer passionate about building intelligent and useful applications.
+I'm Neil, a CS student passionate about building intelligent and useful applications.
 
 I enjoy combining **AI and full-stack development** to solve real-world problems.
 
